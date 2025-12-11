@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Cardiology",
+    "budget": 45000000,
+    "costOverruns": 4,
+    "patientLoad": 3200,
+    "revenueGenerated": 62000000
+  },
+  {
+    "name": "Orthopedics",
+    "budget": 28000000,
+    "costOverruns": 2,
+    "patientLoad": 2100,
+    "revenueGenerated": 35000000
+  },
+  {
+    "name": "Neurology",
+    "budget": 31000000,
+    "costOverruns": 3,
+    "patientLoad": 1800,
+    "revenueGenerated": 39000000
+  },
+  {
+    "name": "Emergency",
+    "budget": 50000000,
+    "costOverruns": 6,
+    "patientLoad": 5200,
+    "revenueGenerated": 70000000
+  }
+]
+

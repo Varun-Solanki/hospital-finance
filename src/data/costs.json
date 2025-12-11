@@ -1,0 +1,10 @@
+{
+  "treatments": [
+    { "id": 1, "name": "Angioplasty", "cost": 180000, "govCost": 130000 },
+    { "id": 2, "name": "Knee Replacement", "cost": 240000, "govCost": 180000 },
+    { "id": 3, "name": "MRI Scan", "cost": 6500, "govCost": 4500 },
+    { "id": 4, "name": "Chemotherapy", "cost": 52000, "govCost": 38000 },
+    { "id": 5, "name": "Dialysis", "cost": 3500, "govCost": 2200 }
+  ]
+}
+

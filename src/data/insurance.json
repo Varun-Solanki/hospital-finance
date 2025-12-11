@@ -1,0 +1,18 @@
+{
+  "claimCoverage": {
+    "Angioplasty": 70,
+    "Knee Replacement": 65,
+    "MRI Scan": 50,
+    "Chemotherapy": 60,
+    "Dialysis": 55
+  },
+  "claimStats": {
+    "total": 18000,
+    "approved": 14800,
+    "pending": 2200,
+    "rejected": 1000,
+    "averageAmount": 42000,
+    "fraudScore": 3.1
+  }
+}
+
