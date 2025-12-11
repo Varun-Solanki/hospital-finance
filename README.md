@@ -4,12 +4,12 @@ A modern, futuristic frontend-only React application for hospital financial mana
 
 ## Features
 
-- 🎨 **Futuristic UI** - Glassmorphism design with neon glow effects
-- 🌓 **Dark/Light Mode** - Full theme toggle with localStorage persistence
-- 📊 **Interactive Charts** - Powered by Recharts with smooth animations
-- ✨ **Smooth Animations** - Framer Motion for page transitions and interactions
-- 📱 **Fully Responsive** - Works seamlessly on all device sizes
-- 🎯 **Modular Architecture** - Clean, production-ready code structure
+- **Futuristic UI** - Glassmorphism design with neon glow effects
+- **Dark/Light Mode** - Full theme toggle with localStorage persistence
+- **Interactive Charts** - Powered by Recharts with smooth animations
+- **Smooth Animations** - Framer Motion for page transitions and interactions
+- **Fully Responsive** - Works seamlessly on all device sizes
+- **Modular Architecture** - Clean, production-ready code structure
 
 ## Tech Stack
 
